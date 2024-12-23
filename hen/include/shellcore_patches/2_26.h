@@ -189,8 +189,8 @@ struct patch g_shellcore_patches_226[] = {
          * PS4 PKG Installer Patch 2
          */
         0x21792A,
-        "\xEB",
-        1
+        "\x90\xE9",
+        2
     },
 
     {
